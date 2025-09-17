@@ -35,7 +35,7 @@ Here you will find a collection of projects that showcase my ability to combine 
 
 1. **📍 Digital Exclusion & Economic Participation in São Paulo**  
    - Tools: Excel, Power BI, SQL  
-   - Analysis of how lack of postal addresses and digital infrastructure limits access to services like marketplaces.  
+   - Analysis of how lack of postal addresses and digital infrastructure limits access to digital services.  
    - Data from IBGE & CGI.br.  
    - [Project Link](#) 
 
