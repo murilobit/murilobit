@@ -20,6 +20,14 @@ I am **Murilo da Silva**, a **Master in International Relations**, with qualitat
 
 ---
 
+## 🎯 Core skills
+
+- Rigorous **data-driven problem-solving**  
+- Deep understanding of **economic and technological transformations**  
+- Clear communication of insights through **visual storytelling**
+  
+---
+
 ## 💻 Technical Skills  
 
 - **Excel**: Data cleaning, pivot tables, scenario analysis, dashboards.  
@@ -51,14 +59,6 @@ Here you will find a collection of projects that showcase my ability to combine 
    - [Project Link](#)  
 
 *(More projects coming soon as I expand my portfolio with advanced SQL queries, business simulations, and strategy-focused dashboards.)*  
-
----
-
-## 🎯 Core skills
-
-- Rigorous **data-driven problem-solving**  
-- Deep understanding of **economic and technological transformations**  
-- Clear communication of insights through **visual storytelling**  
 
 ---
 
