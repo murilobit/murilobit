@@ -8,7 +8,7 @@ I am **Murilo da Silva**, a **Master in International Relations**, with qualitat
 ## 👨‍💼 Professional Background  
 
 - **IBGE – Brazilian Institute of Geography and Statistics**  
-  *Field Supervisor*  
+  *Supervisor*  
   - Led research teams in large-scale data collection projects.  
   - Developed field strategies to reduce response resistance and improve data reliability.  
   - Negotiated with public/private institutions to facilitate data access.  
